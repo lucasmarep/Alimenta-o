@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(4, 184, 136);
+}
+img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+    p{
+        font-family: 'Isometra', cursive;
+        font-size: 20px;
+        padding: 10px;
+        border: 2px solid rgb(253, 25, 0);
+    }
+    h1,h2,h3{
+        font-family: 'Isometra', cursive;
+        font-size: 30px;
+    }
+
+#titulo{
+    color: rgb(67, 103, 181);
+    text-align: center;
+
+}
+#mensagem{
+    font-family: 'Isometra', cursive;
+    color: rgb(12, 12, 12);
+    
+}
+label{
+    font-family: 'Isometra', cursive;
+    color: rgb(12, 12, 12);
+}
